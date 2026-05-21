@@ -6,7 +6,7 @@
 * I discussed this work with no one
 */
 import java.util.Arrays;
-public class Project2 {
+public class Word_search {
     /**
      * this is the main function that complies everything
      * @param args

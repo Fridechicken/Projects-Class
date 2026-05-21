@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Project1 {
+public class Change_calc {
     /**
      * This is the bulk of the code. Mostly activates other meathods and then does string formating at the end
      * @param args takes all arguments from other meathods to be used
